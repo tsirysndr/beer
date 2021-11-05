@@ -33,6 +33,7 @@ Available Commands:
   list        View list of all products
   login       Log in to the app
   logout      Log out from the app
+  orders      View list of all orders
   search      Search for beers/wine/whiskey/vodka/gin/rum/tequila
   stores      List all available alcohol stores
   version     Show the Beer CLI version information
