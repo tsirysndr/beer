@@ -1,4 +1,4 @@
-module beer
+module github.com/tsirysndr/beer
 
 go 1.17
 

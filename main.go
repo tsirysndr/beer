@@ -30,7 +30,7 @@ POSSIBILITY OF SUCH DAMAGE.
 */
 package main
 
-import "beer/cmd"
+import "github.com/tsirysndr/beer/cmd"
 
 func main() {
 	cmd.Execute()
